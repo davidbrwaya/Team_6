@@ -2,6 +2,8 @@ Overview
 
 #About:
 Bellabeat is a high-tech company that makes goods for women that are health-focused. Bellabeat wants to expand its market share by leveraging data to discover how customers utilize wearable technology (such a watch and a leaf) to monitor health and behavior metrics. Bellabeat markets their technology through a variety of channels, including print and digital media, their own ecommerce site, and other channels.
+Link for data
+https://www.kaggle.com/datasets/mjazzy/fitbit-fitness-bellabeat-high-tech-company/data
 
 #Questions for Analysis:
 
