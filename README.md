@@ -38,7 +38,7 @@ Embark on a journey of exploration with a plethora of visualizations and in-dept
 
 File Structure
 data/: The directory housing the raw Fitbit data files.
-fitbit_analysis.ipynb: The epicenter of analysis - a Jupyter Notebook with the code that brings the data to life.
+Untitled (2).ipynb: The epicenter of analysis - a Jupyter Notebook with the code that brings the data to life.
 Dependencies
 To partake in this adventure, make sure you have the following tools:
 
