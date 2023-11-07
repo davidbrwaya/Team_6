@@ -49,7 +49,7 @@ Matplotlib
 Getting Started
 Clone this repository to embark on your Fitbit data expedition.
 Ensure you have the required dependencies installed - the keys to unlocking the data's full potential.
-Run the fitbit_analysis.ipynb notebook to unveil detailed insights into daily activity, sleep patterns, and weight log information.
+Run the Untitled (2).ipynb notebook to unveil detailed insights into daily activity, sleep patterns, and weight log information.
 Feel the pulse of the Fitbit data, and let the revelations guide you through the realms of wellness and lifestyle insights! Happy analyzing!
 
 #Link for google slides as well
